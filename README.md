@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andini</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andinss&label=Profile%20views&color=0e75b6&style=flat" alt="andinss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andinss" alt="andinss" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/andinn14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andinn14_" height="30" width="40" /></a>
 </p>
